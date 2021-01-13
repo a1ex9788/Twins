@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: 515687ea08fd3834facb25ba06cb69da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9173968001752853230
+    second: baraja padel_0
+  - first:
+      213: 7774025550625944923
+    second: baraja padel_1
+  - first:
+      213: 5468288473392324211
+    second: baraja padel_2
+  - first:
+      213: 730528025649380600
+    second: baraja padel_3
+  - first:
+      213: -8040173833397724606
+    second: baraja padel_4
+  - first:
+      213: 5942809556187053888
+    second: baraja padel_5
+  - first:
+      213: 1342997426291975380
+    second: baraja padel_6
+  - first:
+      213: -7984703775135481431
+    second: baraja padel_7
+  - first:
+      213: -6016247336537917156
+    second: baraja padel_8
+  - first:
+      213: 6450726492852099877
+    second: baraja padel_9
+  - first:
+      213: -8917374178351410868
+    second: baraja padel_10
+  - first:
+      213: 2775578587915344449
+    second: baraja padel_11
+  - first:
+      213: 7475997070444837752
+    second: baraja padel_12
+  - first:
+      213: -4059169297591984528
+    second: baraja padel_13
+  - first:
+      213: 7945795717783955945
+    second: baraja padel_14
+  - first:
+      213: 4422167619969449208
+    second: baraja padel_15
+  - first:
+      213: -1440084666886971776
+    second: baraja padel_16
+  - first:
+      213: -3389539059996371831
+    second: baraja padel_17
+  - first:
+      213: 7155883381147562482
+    second: baraja padel_18
+  - first:
+      213: 5997330636771754777
+    second: baraja padel_19
+  - first:
+      213: 3000755513106591181
+    second: baraja padel_20
+  - first:
+      213: 5732220409295900895
+    second: baraja padel_21
+  - first:
+      213: 8351895388809437698
+    second: baraja padel_22
+  - first:
+      213: 1902514291162262035
+    second: baraja padel_23
+  - first:
+      213: 6138332110529004976
+    second: baraja padel_24
+  - first:
+      213: 254168078749957866
+    second: baraja padel_25
+  - first:
+      213: -4516486839747274079
+    second: baraja padel_26
+  - first:
+      213: -4209427094311801287
+    second: baraja padel_27
+  - first:
+      213: -3527899233902835879
+    second: baraja padel_28
+  - first:
+      213: -5010769422286085996
+    second: baraja padel_29
+  - first:
+      213: 2483132923714369465
+    second: baraja padel_30
+  - first:
+      213: -2916278039845478842
+    second: baraja padel_31
+  - first:
+      213: -6133234906720831533
+    second: baraja padel_32
+  - first:
+      213: -1953060410688662586
+    second: baraja padel_33
+  - first:
+      213: -8798047621902117123
+    second: baraja padel_34
+  - first:
+      213: 9170236476742004117
+    second: baraja padel_35
+  - first:
+      213: 5711856796425617201
+    second: baraja padel_36
+  - first:
+      213: -5977462450228976994
+    second: baraja padel_37
+  - first:
+      213: -8194054120555191628
+    second: baraja padel_38
+  - first:
+      213: 6654848830515649932
+    second: baraja padel_39
+  - first:
+      213: 1802330868120900367
+    second: baraja padel_40
+  - first:
+      213: -6193769799150174701
+    second: baraja padel_41
+  - first:
+      213: -2899603459696920661
+    second: baraja padel_42
+  - first:
+      213: 3503116411724338277
+    second: baraja padel_43
+  - first:
+      213: 5492474544593245090
+    second: baraja padel_44
+  - first:
+      213: 7686187281394595125
+    second: baraja padel_45
+  - first:
+      213: 2326034537612926840
+    second: baraja padel_46
+  - first:
+      213: -3605765673678067256
+    second: baraja padel_47
+  - first:
+      213: -2392153806232066693
+    second: baraja padel_48
+  - first:
+      213: -6145098832565107320
+    second: baraja padel_49
+  - first:
+      213: -6328872646889979593
+    second: baraja padel_50
+  - first:
+      213: -654282502478219569
+    second: baraja padel_51
+  - first:
+      213: 2751472383018839925
+    second: baraja padel_52
+  - first:
+      213: 4646324181886349336
+    second: baraja padel_53
+  - first:
+      213: 9140687279549516626
+    second: baraja padel_54
+  - first:
+      213: -4635933878682539528
+    second: baraja padel_55
+  - first:
+      213: -5690263806514132742
+    second: baraja padel_56
+  - first:
+      213: -187454626119090559
+    second: baraja padel_57
+  - first:
+      213: 6868955232172566254
+    second: baraja padel_58
+  - first:
+      213: -8497988904986704797
+    second: baraja padel_59
+  - first:
+      213: -7389676292232447954
+    second: baraja padel_60
+  - first:
+      213: -4123855710839696694
+    second: baraja padel_61
+  - first:
+      213: -5584050591194574366
+    second: baraja padel_62
+  - first:
+      213: 6497112941680167880
+    second: baraja padel_63
+  - first:
+      213: -7652841816243833456
+    second: baraja padel_64
+  - first:
+      213: -7976969119391955662
+    second: baraja padel_65
+  - first:
+      213: -3468190375108969046
+    second: baraja padel_66
+  - first:
+      213: 3426622567802992617
+    second: baraja padel_67
+  - first:
+      213: 6701139376866858670
+    second: baraja padel_68
+  - first:
+      213: 6771159816245526401
+    second: baraja padel_69
+  - first:
+      213: -678126850935497400
+    second: baraja padel_70
+  - first:
+      213: -2096129461546153661
+    second: baraja padel_71
+  - first:
+      213: -4679356531676108402
+    second: baraja padel_72
+  - first:
+      213: 8910635308011316479
+    second: baraja padel_73
+  - first:
+      213: -3379279300741910711
+    second: baraja padel_74
+  - first:
+      213: -3940103862545098576
+    second: baraja padel_75
+  - first:
+      213: 849315416762345748
+    second: baraja padel_76
+  - first:
+      213: 5478379670617101027
+    second: baraja padel_77
+  - first:
+      213: -656618030025339713
+    second: baraja padel_78
+  - first:
+      213: 4361921802476079099
+    second: baraja padel_79
+  - first:
+      213: 314899586669490464
+    second: baraja padel_80
+  - first:
+      213: -5573848927660764418
+    second: baraja padel_81
+  - first:
+      213: 1158190518159704926
+    second: baraja padel_82
+  - first:
+      213: -4537496005231377870
+    second: baraja padel_83
+  - first:
+      213: 1283777924934140232
+    second: baraja padel_84
+  - first:
+      213: 2645072119544938919
+    second: baraja padel_85
+  - first:
+      213: -4607628359321263216
+    second: baraja padel_86
+  - first:
+      213: -5115140154831416664
+    second: baraja padel_87
+  - first:
+      213: -1354481361816889937
+    second: baraja padel_88
+  - first:
+      213: 1400830197112107102
+    second: baraja padel_89
+  - first:
+      213: -9166834971470192098
+    second: baraja padel_90
+  - first:
+      213: 5694825813632778285
+    second: baraja padel_91
+  - first:
+      213: -1971207406513927613
+    second: baraja padel_92
+  - first:
+      213: -2657582390518335302
+    second: baraja padel_93
+  - first:
+      213: 5063275118568093963
+    second: baraja padel_94
+  - first:
+      213: 7834716262745736030
+    second: baraja padel_95
+  - first:
+      213: 5165594623259936995
+    second: baraja padel_96
+  - first:
+      213: -5563635980662561660
+    second: baraja padel_97
+  - first:
+      213: -6593244098492513241
+    second: baraja padel_98
+  - first:
+      213: -7087283770279761340
+    second: baraja padel_99
+  - first:
+      213: 6827439405604213581
+    second: baraja padel_100
+  - first:
+      213: 8160953698297987846
+    second: baraja padel_101
+  - first:
+      213: -5207099285430724224
+    second: baraja padel_102
+  - first:
+      213: 5711832459107560551
+    second: baraja padel_103
+  - first:
+      213: -1672708851153458077
+    second: baraja padel_104
+  - first:
+      213: 2526826820784930618
+    second: baraja padel_105
+  - first:
+      213: -6619840431043767840
+    second: baraja padel_106
+  - first:
+      213: 3415052999850751337
+    second: baraja padel_107
+  - first:
+      213: 4527351311361168368
+    second: baraja padel_108
+  - first:
+      213: -1531196366797317132
+    second: baraja padel_109
+  - first:
+      213: 805367554232282737
+    second: baraja padel_110
+  - first:
+      213: -1811634251462212186
+    second: baraja padel_111
+  - first:
+      213: 8235842612405414681
+    second: baraja padel_112
+  - first:
+      213: -6125995708372533049
+    second: baraja padel_113
+  - first:
+      213: -129193736506233871
+    second: baraja padel_114
+  - first:
+      213: -1565660175747292907
+    second: baraja padel_115
+  - first:
+      213: -595222413392146669
+    second: baraja padel_116
+  - first:
+      213: 8614543281409574611
+    second: baraja padel_117
+  - first:
+      213: -9120533381161451532
+    second: baraja padel_118
+  - first:
+      213: -2830038247923273271
+    second: baraja padel_119
+  - first:
+      213: 8512810410810019100
+    second: baraja padel_120
+  - first:
+      213: -5337537021797364223
+    second: baraja padel_121
+  - first:
+      213: 5160893503734847506
+    second: baraja padel_122
+  - first:
+      213: -7088208821682651420
+    second: baraja padel_123
+  - first:
+      213: -6403868461329870710
+    second: baraja padel_124
+  - first:
+      213: 2639211866941989209
+    second: baraja padel_125
+  - first:
+      213: 2536990994792651082
+    second: baraja padel_126
+  - first:
+      213: -6433646014044924007
+    second: baraja padel_127
+  - first:
+      213: 5825224615707571089
+    second: baraja padel_128
+  - first:
+      213: -471354423687599925
+    second: baraja padel_129
+  - first:
+      213: 5231713664136769764
+    second: baraja padel_130
+  - first:
+      213: 5363343415841805129
+    second: baraja padel_131
+  - first:
+      213: 3501793095113829789
+    second: baraja padel_132
+  - first:
+      213: 8985714876274729530
+    second: baraja padel_133
+  - first:
+      213: -3255369796634557868
+    second: baraja padel_134
+  - first:
+      213: 5837345322123079690
+    second: baraja padel_135
+  - first:
+      213: 2478131765968370874
+    second: baraja padel_136
+  - first:
+      213: -5177109320023709797
+    second: baraja padel_137
+  - first:
+      213: -1000736349124410400
+    second: baraja padel_138
+  - first:
+      213: -3022358664803569729
+    second: baraja padel_139
+  - first:
+      213: -500906589707515397
+    second: baraja padel_140
+  - first:
+      213: -4254732928769035579
+    second: baraja padel_141
+  - first:
+      213: -5127632094393201658
+    second: baraja padel_142
+  - first:
+      213: -3670376949981428669
+    second: baraja padel_143
+  - first:
+      213: -2109792964213253710
+    second: baraja padel_144
+  - first:
+      213: 4411723369375650675
+    second: baraja padel_145
+  - first:
+      213: -7609268896193144051
+    second: baraja padel_146
+  - first:
+      213: 2795730631781278555
+    second: baraja padel_147
+  - first:
+      213: -673405196937047333
+    second: baraja padel_148
+  - first:
+      213: 6988196532286203292
+    second: baraja padel_149
+  - first:
+      213: -8383638487454850084
+    second: baraja padel_150
+  - first:
+      213: 5359072386514451515
+    second: baraja padel_151
+  - first:
+      213: -5020266546617099372
+    second: baraja padel_152
+  - first:
+      213: -6078371528764216946
+    second: baraja padel_153
+  - first:
+      213: 8939015891890565845
+    second: baraja padel_154
+  - first:
+      213: 1152294851658886774
+    second: baraja padel_155
+  - first:
+      213: -2766496146144760550
+    second: baraja padel_156
+  - first:
+      213: -5186988318009845484
+    second: baraja padel_157
+  - first:
+      213: -4232818253194661192
+    second: baraja padel_158
+  - first:
+      213: 1147359656664601111
+    second: baraja padel_159
+  - first:
+      213: 4599115810848958779
+    second: baraja padel_160
+  - first:
+      213: -675321017498036023
+    second: baraja padel_161
+  - first:
+      213: -3422319300867919234
+    second: baraja padel_162
+  - first:
+      213: 8346322326456834618
+    second: baraja padel_163
+  - first:
+      213: -4638409561602782067
+    second: baraja padel_164
+  - first:
+      213: 1562972013444812669
+    second: baraja padel_165
+  - first:
+      213: 1956302205276225420
+    second: baraja padel_166
+  - first:
+      213: -2876086464646387664
+    second: baraja padel_167
+  - first:
+      213: -3584654389829764569
+    second: baraja padel_168
+  - first:
+      213: -5001908679538537003
+    second: baraja padel_169
+  - first:
+      213: 8414783459628638376
+    second: baraja padel_170
+  - first:
+      213: -1016353823744082674
+    second: baraja padel_171
+  - first:
+      213: -3927717684242901850
+    second: baraja padel_172
+  - first:
+      213: 3714575746215662154
+    second: baraja padel_173
+  - first:
+      213: -7430313101028282093
+    second: baraja padel_174
+  - first:
+      213: -2786150616767053723
+    second: baraja padel_175
+  - first:
+      213: -9103239034569394625
+    second: baraja padel_176
+  - first:
+      213: -4132311339483077136
+    second: baraja padel_177
+  - first:
+      213: -8035715328547412625
+    second: baraja padel_178
+  - first:
+      213: -4798222168948748414
+    second: baraja padel_179
+  - first:
+      213: 1900045001532719524
+    second: baraja padel_180
+  - first:
+      213: -5857046242586759952
+    second: baraja padel_181
+  - first:
+      213: -7350008687928456342
+    second: baraja padel_182
+  - first:
+      213: -3527980127467408199
+    second: baraja padel_183
+  - first:
+      213: 8870342222490403514
+    second: baraja padel_184
+  - first:
+      213: 3538716982942344134
+    second: baraja padel_185
+  - first:
+      213: -5283868183660208887
+    second: baraja padel_186
+  - first:
+      213: -6059517839932389205
+    second: baraja padel_187
+  - first:
+      213: -2208210585486786270
+    second: baraja padel_188
+  - first:
+      213: -4941122664688446245
+    second: baraja padel_189
+  - first:
+      213: -3444532655390367071
+    second: baraja padel_190
+  - first:
+      213: 1456788936180212353
+    second: baraja padel_191
+  - first:
+      213: 6498544459324570940
+    second: baraja padel_192
+  - first:
+      213: 8344276232336955414
+    second: baraja padel_193
+  - first:
+      213: -4938977493176467608
+    second: baraja padel_194
+  - first:
+      213: -5536256316602800336
+    second: baraja padel_195
+  - first:
+      213: -9031622646370026844
+    second: baraja padel_196
+  - first:
+      213: 5198262838233936685
+    second: baraja padel_197
+  - first:
+      213: 75279572356217896
+    second: baraja padel_198
+  - first:
+      213: -3626600027057684210
+    second: baraja padel_199
+  - first:
+      213: 8523554997965669265
+    second: baraja padel_200
+  - first:
+      213: 2383455561018147235
+    second: baraja padel_201
+  - first:
+      213: -1294594948079800280
+    second: baraja padel_202
+  - first:
+      213: 9090037026342393290
+    second: baraja padel_203
+  - first:
+      213: 6346509879048320784
+    second: baraja padel_204
+  - first:
+      213: -5616231091840943444
+    second: baraja padel_205
+  - first:
+      213: 3986892711379607010
+    second: baraja padel_206
+  - first:
+      213: 672441741797627569
+    second: baraja padel_207
+  - first:
+      213: 7423214824486180558
+    second: baraja padel_208
+  - first:
+      213: 6487450964324056416
+    second: baraja padel_209
+  - first:
+      213: -8019565523541787582
+    second: baraja padel_210
+  - first:
+      213: 8282577183892780140
+    second: baraja padel_211
+  - first:
+      213: -560648207620974943
+    second: baraja padel_212
+  - first:
+      213: 3232744236180789255
+    second: baraja padel_213
+  - first:
+      213: 6330317373957047980
+    second: baraja padel_214
+  - first:
+      213: -649557673604776429
+    second: baraja padel_215
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: baraja padel_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 621
+        width: 143
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea6745ba4b705f70800000000000000
+      internalID: 9173968001752853230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 621
+        width: 143
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55bedbbc03e2eb60800000000000000
+      internalID: 7774025550625944923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 621
+        width: 142
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e99e1f46343eb40800000000000000
+      internalID: 5468288473392324211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 621
+        width: 143
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc7c4b6e5b532a00800000000000000
+      internalID: 730528025649380600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 619
+        width: 137
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a10f74f709b6090800000000000000
+      internalID: -8040173833397724606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_5
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 619
+        width: 139
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f73541ec9197250800000000000000
+      internalID: 5942809556187053888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_6
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 624
+        width: 140
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4a5603b0943a210800000000000000
+      internalID: 1342997426291975380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 457
+        width: 143
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a14456a832a03190800000000000000
+      internalID: -7984703775135481431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 457
+        width: 143
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1974c04ceef18ca0800000000000000
+      internalID: -6016247336537917156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_9
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 457
+        width: 142
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b96ad5195958950800000000000000
+      internalID: 6450726492852099877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_10
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 457
+        width: 143
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c419f1a5e6f1f3480800000000000000
+      internalID: -8917374178351410868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_11
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 458
+        width: 142
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14adfd22506d48620800000000000000
+      internalID: 2775578587915344449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_12
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 446
+        width: 139
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bb9bdd9b310c760800000000000000
+      internalID: 7475997070444837752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 449
+        width: 139
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e9bddb70feaa7c0800000000000000
+      internalID: -4059169297591984528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 271
+        width: 143
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e925505b13254e60800000000000000
+      internalID: 7945795717783955945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 270
+        width: 144
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc738d4502be5d30800000000000000
+      internalID: 4422167619969449208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_16
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 271
+        width: 144
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e17b710aac30ce0800000000000000
+      internalID: -1440084666886971776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_17
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 273
+        width: 145
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984da98fe20f5f0d0800000000000000
+      internalID: -3389539059996371831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_18
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 272
+        width: 156
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1fb6b850ece4360800000000000000
+      internalID: 7155883381147562482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_19
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 269
+        width: 136
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913095d507cca3350800000000000000
+      internalID: 5997330636771754777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_20
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 269
+        width: 151
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd63809d33d4a920800000000000000
+      internalID: 3000755513106591181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 78
+        width: 152
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd093567710fc8f40800000000000000
+      internalID: 5732220409295900895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 79
+        width: 152
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202a53b1b94e7e370800000000000000
+      internalID: 8351895388809437698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_23
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 79
+        width: 152
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aa4d8faa6176a10800000000000000
+      internalID: 1902514291162262035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_24
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 72
+        width: 143
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b58471488cbf2550800000000000000
+      internalID: 6138332110529004976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_25
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 72
+        width: 135
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee722f558cf68300800000000000000
+      internalID: 254168078749957866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_26
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 72
+        width: 152
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa132c06273251c0800000000000000
+      internalID: -4516486839747274079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraja padel_27
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 72
+        width: 139
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ee3a73c5c1595c0800000000000000
+      internalID: -4209427094311801287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
